@@ -9,6 +9,24 @@ car<-c(10,35,10,35,49,10,3,31,6,22,0.5,9,34,17,11,52,49,10,3,
        7,1,72,3,17,30,28,84,13,42,2,33,9,197,99,46,8,21,
        56)
 ```
+```
+par(mfrow=c(1,2))
+par(mai=rep(0.5, 4))
+layout(matrix(c(1,2,3,3), ncol = 2, byrow = TRUE))
 
+hist(car,breaks = 10,prob=T,main = "observed distribution")
+mean.int<-mean(car)
+abline(v=mean.int,col="red",lty=3)#vertical line = mean interval
+
+sim.int<-rexp(1000,1/mean.int)
+hist(sim.int,breaks=10,prob=T,main="simulated distribution")
+abline(v=mean.int,col="red",lty=3)
+
+
+car.int <- seq(0, 200, by = 1)
+prob.int <- dexp(car.int, rate = 1/1/mean.int)  
+plot(car.int,prob.int,main="theoretical distribution",
+     type="l",lwd=2,col="red",xlab="interval between cars")
+```
 <img src="three figures.png" alt="3 figures">
 
