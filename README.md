@@ -1,5 +1,8 @@
 # fitting-exponential-car-intervals
-Fitting exponential distribution to observed car intervals at a given street.
+Fitting exponential distribution to observed car intervals at a given street. The exponential distribution is the probability distribution of the time (or space!) between two events in a Poisson process, where the events occur continuously and independently at a constant rate λ. We want to fit a exponential distribution to the interval of time between cars passing.
+
+$λ = 1/mean(interval)$
+
 <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.gifmania.co.uk%2FVehicles-Animated-Gifs%2FAnimated-Cars%2FSports-Cars%2FRed-Porsche-911-54536.gif&f=1&nofb=1" alt="car">
 
 ```{r,echo=TRUE}
