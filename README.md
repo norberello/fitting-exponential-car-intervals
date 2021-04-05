@@ -1,5 +1,5 @@
 # fitting-exponential-car-intervals
-Fitting exponential distribution to observed car intervals at a given street. The exponential distribution is the probability distribution of the time (or space!) between two events in a Poisson process, where the events occur continuously and independently at a constant rate λ. We want to fit a exponential distribution to the interval of time between cars passing. What is the probability of the next car passing in less than 90 seconds? What is the probability of the next car lasting more than 90 seconds?
+Fitting exponential distribution to observed car intervals at a given street. The exponential distribution is the probability distribution of the time (or space!!) between two events in a Poisson process, where the events occur continuously and independently at a constant rate λ. We want to fit a exponential distribution to the interval of time between cars passing. Just looked over the window and started counting time between vehicles passing by for about an hour (enough to see if the data collected follows the exponential shape). What is the probability of the next car passing in less than 90 seconds? What is the probability of the next car lasting more than 90 seconds?
 
 `λ = 1 / interval`
 
@@ -33,5 +33,5 @@ plot(car.int,prob.int,main="theoretical distribution",
 ```
 <img src="three figures.png" alt="3 figures">
 
-good explanations here:
+Excelent explanations here:
 <https://r-coder.com/exponential-distribution-r/>
