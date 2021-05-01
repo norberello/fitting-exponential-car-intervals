@@ -41,7 +41,8 @@ Excelent explanations here:
 
 What about counting people until type A shows up? Would that follow an exponential distribution?
 
+<center>
 <font size="5">Instead of time (or distance), let's count the number of persons until type A shows up in two different locations. Can this be characterized with exponential distributions? What type A person is will remain secret. </font>
 <p class="aligncenter">
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.pngio.com%2Fmassive-crush-pt-1-all-saints-youth-ministry-people-walking-png-gif-302_170.gif&f=1&nofb=1" alt="centered image" />
-</p>
+</p></center>
