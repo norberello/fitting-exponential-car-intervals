@@ -52,6 +52,7 @@ What about counting people until type A shows up? Would that follow an exponenti
 </p>
 
 <img src="type A person.png" alt="exponential distribution of type A intervals">
+
 <p align="center">
   <img src="penny lane tr.gif" alt="penny lane centered">
 </p>
