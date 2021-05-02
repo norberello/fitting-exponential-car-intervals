@@ -46,4 +46,21 @@ What about counting people until type A shows up? Would that follow an exponenti
 <p class="aligncenter">
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.pngio.com%2Fmassive-crush-pt-1-all-saints-youth-ministry-people-walking-png-gif-302_170.gif&f=1&nofb=1" alt="centered image" />
 </p></center>
+```
+person.num <- seq(0, 50, by = 1)# Specify x-values 
+#for exp function
+#Now, we can apply the dexp function with a rate of 5 as follows:
+int.p <- dexp(person.num, rate = 1/mean(liz.int))  
+int.t <- dexp(person.num, rate = 1/mean(uni.int))  
+
+plot(person.num,int.p,main="comparing the theoretical interval of persons across the two roads",
+     type="l",lwd=3,col="red",xlab="number of persons until type-A is found",
+     ylim=c(0,0.1),ylab="probability",cex.lab=2,cex.axis=1.5,
+     cex.main=2)
+lines(person.num,int.t,
+      type="l",lwd=3,col="blue")
+      # Adding a legend
+legend("topright", c(expression(paste(, lambda)), "Tolosa", "Lizardi"),
+       lty = c(0, 1, 1), col = c("red", "blue"), box.lty = 0, lwd = 3,cex=1.5)
+```
 <img src="type A person.png" alt="exponential distribution of type A intervals">
