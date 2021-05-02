@@ -1,7 +1,7 @@
 # fitting-exponential-car-intervals
 
 <p align="center">
-  <img width="600" height="200" src="https://www.python.org/python-.png">
+  <img width="600" height="200" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F34%2F9b%2Fdc%2F349bdce7fbcc03eb560ccd0ace5c1437.gif&f=1&nofb=1" alt="penny lane centered">
 </p>
 
 <center><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F34%2F9b%2Fdc%2F349bdce7fbcc03eb560ccd0ace5c1437.gif&f=1&nofb=1" alt="penny lane centered"> </center>
