@@ -46,7 +46,7 @@ What about counting people until type A shows up? Would that follow an exponenti
 <p class="aligncenter">
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.pngio.com%2Fmassive-crush-pt-1-all-saints-youth-ministry-people-walking-png-gif-302_170.gif&f=1&nofb=1" alt="centered image" />
 </p></center>
-```
+```{r,echo=TRUE}
 person.num <- seq(0, 50, by = 1)# Specify x-values 
 #for exp function
 #Now, we can apply the dexp function with a rate of 5 as follows:
