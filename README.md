@@ -1,7 +1,7 @@
 # fitting-exponential-car-intervals
 
 <p align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F34%2F9b%2Fdc%2F349bdce7fbcc03eb560ccd0ace5c1437.gif&f=1&nofb=1" alt="penny lane centered">
+  <img src="penny lane.gif" alt="penny lane centered">
 </p>
 
 This exercises fits exponential distribution to observed car intervals across two given streets, this is: the number of seconds between cars. The exponential distribution is the probability distribution of the time (or space, distance, or any other unit counted until an event occurs!!) between two events in a Poisson process, where the events occur continuously and independently at a constant rate labmda (λ). We want to fit a exponential distribution to the interval of time (in seconds) between cars passing. Just looked over the window and started counting time between vehicles passing by for about an hour (enough to see if the data collected follows the exponential shape). What is the probability of the next car passing in less than 90 seconds? What is the probability of the next car lasting more than 90 seconds?
