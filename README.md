@@ -1,4 +1,4 @@
-# fitting car intervals and other time events to exponential distributions
+# Using exponential distribution to fit car intervals and others
 
 <p align="center">
   <img src="penny lane tr.gif" alt="penny lane centered">
