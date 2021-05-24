@@ -1,7 +1,7 @@
 # fitting-exponential-car-intervals
 
 <p align="center">
-  <img src="penny lane bw.gif" alt="penny lane centered">
+  <img src="penny lane tr.gif" alt="penny lane centered">
 </p>
 
 This exercise fits exponential distribution to observed car intervals across two given streets, this is: the number of seconds between cars at different spots. The exponential distribution is the probability distribution of the time (or space, distance, or any other unit counted until an event occurs!!) between two events in a Poisson process, where the events occur continuously and independently at a constant rate labmda (λ). We want to fit a exponential distribution to the interval of time (in seconds) between cars passing. Just looked over the window and started counting time between vehicles passing by for about an hour (enough to see if the data collected follows the exponential shape). What is the probability of the next car passing in less than 90 seconds? What is the probability of the next car lasting more than 90 seconds? We can use the commands `dexp` and `qexp` to answer these questions, and `rexp` to generate random exponential values.
@@ -53,6 +53,7 @@ What about counting people until type A shows up? Would that follow an exponenti
 
 <img src="type A person.png" alt="exponential distribution of type A intervals">
 
-<p align="center">
-  <img src="penny lane tr.gif" alt="penny lane centered">
+<p class="aligncenter">
+    <img src="https://unrealitymag.com/wp-content/uploads/2012/07/eZb0i.gif" alt="https://unrealitymag.com"
+         width = 400/>
 </p>
