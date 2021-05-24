@@ -53,7 +53,6 @@ What about counting people until type A shows up? Would that follow an exponenti
 
 <img src="type A person.png" alt="exponential distribution of type A intervals">
 
-<p class="aligncenter">
-    <img src="https://unrealitymag.com/wp-content/uploads/2012/07/eZb0i.gif" alt="https://unrealitymag.com"
-         width = 400/>
-</p>
+<p align="center">
+  <img src="https://unrealitymag.com/wp-content/uploads/2012/07/eZb0i.gif" alt="penny lane centered">
+</p>  
