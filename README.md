@@ -55,7 +55,7 @@ What about counting people until type A shows up? Would that follow an exponenti
 
 <p align="center">
   <img src="https://unrealitymag.com/wp-content/uploads/2012/07/eZb0i.gif" alt="penny lane centered"
-       width=500>
+       width=650>
 </p>  
 
 <p align="center">
