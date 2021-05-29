@@ -6,7 +6,7 @@
 
 This exercise fits exponential distribution to several possibilities, for example observed car intervals across two given streets, this is: the number of seconds between cars at different spots. The exponential distribution is the probability distribution of the time (or space, distance, or any other unit counted until an event occurs!!) between two events in a Poisson process, where the events occur continuously and independently at a constant rate labmda (λ). We want to fit a exponential distribution to the interval of time (in seconds) between cars passing. Just looked over the window and started counting time between vehicles passing by for about an hour (enough to see if the data collected follows the exponential shape). What is the probability of the next car passing in less than 90 seconds? What is the probability of the next car lasting more than 90 seconds? We can use the commands `dexp` and `pexp` to answer these questions, and `rexp` to generate random exponential values. Actually, the empirical cumulative distribution function (ecdp) approaches the notion of `pexp` as every value has an estimate of the accumulated probability.
 
-<p align="center">$$\lambda = \frac{1}{\bar{interval}}$$</p>
+<p align="center">$\lambda = \frac{1}{\bar{interval}}$</p>
 
 <p align="center">
 <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.gifmania.co.uk%2FVehicles-Animated-Gifs%2FAnimated-Cars%2FSports-Cars%2FRed-Porsche-911-54536.gif&f=1&nofb=1" alt="car">
