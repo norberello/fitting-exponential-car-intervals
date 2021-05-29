@@ -8,11 +8,12 @@ This exercise fits exponential distribution to several possibilities, for exampl
 
 <p align="center">
   $${
-  \lambda = \frac{1}{\bar{interval}}
-  }$$</p>
+  \lambda = \frac{1}{\bar{interval}}}$$</p>
 <p align="center">
 
-$$ {\lambda = \frac{1}{\overline{interval}}} $$
+<p align="center">
+  λ = 1/mean(interval)</p>
+<p align="center">
 
 
 <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.gifmania.co.uk%2FVehicles-Animated-Gifs%2FAnimated-Cars%2FSports-Cars%2FRed-Porsche-911-54536.gif&f=1&nofb=1" alt="car">
