@@ -8,9 +8,9 @@ This exercise fits exponential distribution to several possibilities, for exampl
 
 <p align="center">
   $${
-  \lambda = \frac{1}{\bar{interval}}}$$</p>
-$$}
-</p align="center">
+  \lambda = \frac{1}{\overline{interval}}}$$
+</p>
+<p align="center">
 
 <p align="center">
   λ = 1/mean(interval)</p>
