@@ -72,11 +72,11 @@ What about counting people until type A shows up? Would that follow an exponenti
 </p>      
   
   <p align="center">
-  <img src="https://unrealitymag.com/wp-content/uploads/2012/07/eZb0i.gif" alt="penny lane centered"
+  <img src="hmachist violence.png" alt="penny lane centered"
        width=650>
 </p>  
 
 <p align="center">
-  <img src="ECDF and PEXP.png" alt="penny lane centered"
+  <img src="ecdf and pexp crime.png" alt="penny lane centered"
        width=500>
 </p>  
