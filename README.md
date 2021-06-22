@@ -73,7 +73,7 @@ What about counting people until type A shows up? Would that follow an exponenti
   
   <p align="center">
   <img src="machist violence.png" alt="penny lane centered"
-       width=650>
+       >
 </p>  
 
 <p align="center">
