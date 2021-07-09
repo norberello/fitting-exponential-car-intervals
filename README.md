@@ -16,7 +16,7 @@ This exercise fits exponential distribution to several possibilities, for exampl
 </p>
 
 <p align="center">
-<img src="https://github.com/norberello/lecture-images-and-clips/blob/main/21-22/taxy%20city%20wide.gif?raw=true" alt="Girl in a jacket" style="width:1200px">
+<img src="https://github.com/norberello/lecture-images-and-clips/blob/main/21-22/taxy%20city%20wide.gif?raw=true" alt="Girl in a jacket">
   <p align="center">
 
 ```{r,echo=TRUE}
