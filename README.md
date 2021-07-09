@@ -15,6 +15,8 @@ This exercise fits exponential distribution to several possibilities, for exampl
 <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.gifmania.co.uk%2FVehicles-Animated-Gifs%2FAnimated-Cars%2FSports-Cars%2FRed-Porsche-911-54536.gif&f=1&nofb=1" alt="car">
 </p>
 
+<img src="https://github.com/norberello/lecture-images-and-clips/blob/main/21-22/taxy%20city%20wide.gif?raw=true" alt="Girl in a jacket" style="width:1000px">
+
 ```{r,echo=TRUE}
 car<-c(10,35,10,35,49,10,3,31,6,22,0.5,9,34,17,11,52,49,10,3,
        28,5,53,58,19,2,128,40,43,6,7,12,41,29,12,126,
