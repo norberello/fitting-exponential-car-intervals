@@ -91,7 +91,4 @@ What about counting people until type A shows up? Would that follow an exponenti
   <img src="sex crime prob with CI.png" alt="penny lane centered"
        width=500>
 </p>  
-**Figure 14**
-. 
-
-
+Figure 14. Cumulative probability of at least one crime over time based on the exponential model fitted to observed intervals between crimes. The blue line shows the estimated cumulative probability (CDF) of a new crime occurring within a given number of days. The shaded blue area represents the 95% confidence interval for the CDF, calculated from the chi-square confidence interval for the rate parameter λ. Horizontal dashed lines indicate key probabilities (50%, 90%, and 95%), and vertical dashed lines show the corresponding number of days required to reach these probabilities.
