@@ -86,3 +86,12 @@ What about counting people until type A shows up? Would that follow an exponenti
   <img src="ecdf and pexp crime.png" alt="penny lane centered"
        width=500>
 </p>  
+
+<p align="center">
+  <img src="sex crime prob with CI.png" alt="penny lane centered"
+       width=500>
+</p>  
+**Figure 14**
+. 
+
+
